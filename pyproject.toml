@@ -2,7 +2,7 @@
 name = "milestone2"
 version = "0.1.0"
 description = ""
-authors = ["sribarrow"]
+authors = ["sripriya.barrow"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -12,6 +12,8 @@ python = "^3.8"
 flake8 = "^5.0.4"
 black = "^22.10.0"
 gitflow = "^0.5.1"
+mypy = "^0.982"
+bandit = "^1.7.4"
 
 [build-system]
 requires = ["poetry-core"]

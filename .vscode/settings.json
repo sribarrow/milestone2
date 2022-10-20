@@ -13,5 +13,7 @@
         "**/Thumbs.db": true,
         "**/.pytest_cache": true,
         "**/__pycache__": true
-    }
+    },
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true
 }
